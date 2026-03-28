@@ -1,0 +1,6 @@
+# 抖音/字节跳动 Rule Set
+DOMAIN-SUFFIX,ecombdpage.com
+DOMAIN-SUFFIX,bytehwm.com
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,livehwc4.com
+IP-CIDR,113.125.228.149/32,no-resolve
