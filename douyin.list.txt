@@ -4,3 +4,7 @@ DOMAIN-SUFFIX,bytehwm.com
 DOMAIN-SUFFIX,douyincdn.com
 DOMAIN-SUFFIX,livehwc4.com
 IP-CIDR,113.125.228.149/32,no-resolve
+IP-CIDR,101.126.58.201/32,no-resolve
+IP-CIDR,110.249.199.75/32,no-resolve
+IP-CIDR,111.225.147.191/32,no-resolve
+IP-CIDR,111.63.61.101/32,no-resolve
