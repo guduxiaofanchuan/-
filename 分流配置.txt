@@ -1,0 +1,11 @@
+# perplexity
+DOMAIN-SUFFIX,perplexity.ai,PROXY
+# DOMAIN-SUFFIX,claude.ai,PROXY
+# DOMAIN-SUFFIX,claude.com,PROXY
+# DOMAIN,api.anthropic.com,PROXY
+# DOMAIN,console.anthropic.com,PROXY
+# DOMAIN,platform.claude.com,PROXY
+
+# 可选：更激进一点
+# DOMAIN-KEYWORD,anthropic,PROXY
+# DOMAIN-KEYWORD,claude,PROXY
