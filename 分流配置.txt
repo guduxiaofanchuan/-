@@ -1,5 +1,5 @@
 # perplexity
-DOMAIN-SUFFIX,perplexity.ai,PROXY
+DOMAIN-SUFFIX,perplexity.ai
 # DOMAIN-SUFFIX,claude.ai,PROXY
 # DOMAIN-SUFFIX,claude.com,PROXY
 # DOMAIN,api.anthropic.com,PROXY
@@ -13,18 +13,18 @@ DOMAIN-SUFFIX,perplexity.ai,PROXY
 
 
 # ChatGPT
-DOMAIN-SUFFIX,chatgpt.com,PROXY
+DOMAIN-SUFFIX,chatgpt.com
 
 # Gemini
-DOMAIN-SUFFIX,gemini.google.com,PROXY
-DOMAIN-SUFFIX,generativelanguage.googleapis.com,PROXY
-DOMAIN-SUFFIX,aistudio.google.com,PROXY
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,aistudio.google.com
 
 #Grok
-DOMAIN-SUFFIX,grok.com,PROXY
-DOMAIN-SUFFIX,x.ai,PROXY
-DOMAIN-KEYWORD,grok,PROXY
-DOMAIN,api.x.ai,PROXY
-DOMAIN,accounts.x.ai,PROXY
-DOMAIN,management-api.x.ai,PROXY
-DOMAIN,docs.x.ai,PROXY
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN-KEYWORD,grok
+DOMAIN,api.x.ai
+DOMAIN,accounts.x.ai
+DOMAIN,management-api.x.ai
+DOMAIN,docs.x.ai
