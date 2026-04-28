@@ -1,11 +1,11 @@
 # Anthropic / Claude 强制代理
-DOMAIN-SUFFIX,anthropic.com,PROXY
-DOMAIN-SUFFIX,claude.ai,PROXY
-DOMAIN-SUFFIX,claude.com,PROXY
-DOMAIN,api.anthropic.com,PROXY
-DOMAIN,console.anthropic.com,PROXY
-DOMAIN,platform.claude.com,PROXY
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN,api.anthropic.com
+DOMAIN,console.anthropic.com
+DOMAIN,platform.claude.com
 
 # 可选：更激进一点
-DOMAIN-KEYWORD,anthropic,PROXY
-DOMAIN-KEYWORD,claude,PROXY
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,claude
