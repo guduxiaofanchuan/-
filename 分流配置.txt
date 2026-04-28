@@ -9,3 +9,22 @@ DOMAIN-SUFFIX,perplexity.ai,PROXY
 # 可选：更激进一点
 # DOMAIN-KEYWORD,anthropic,PROXY
 # DOMAIN-KEYWORD,claude,PROXY
+
+
+
+# ChatGPT
+DOMAIN-SUFFIX,chatgpt.com,PROXY
+
+# Gemini
+DOMAIN-SUFFIX,gemini.google.com,PROXY
+DOMAIN-SUFFIX,generativelanguage.googleapis.com,PROXY
+DOMAIN-SUFFIX,aistudio.google.com,PROXY
+
+#Grok
+DOMAIN-SUFFIX,grok.com,PROXY
+DOMAIN-SUFFIX,x.ai,PROXY
+DOMAIN-KEYWORD,grok,PROXY
+DOMAIN,api.x.ai,PROXY
+DOMAIN,accounts.x.ai,PROXY
+DOMAIN,management-api.x.ai,PROXY
+DOMAIN,docs.x.ai,PROXY
