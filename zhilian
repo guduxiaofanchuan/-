@@ -6,3 +6,6 @@ DOMAIN-SUFFIX,dji.net
 DOMAIN-SUFFIX,djiservice.org
 DOMAIN-SUFFIX,djicorp.com
 DOMAIN-SUFFIX,djigate.com
+
+#苹果更新软件
+DOMAIN-SUFFIX,itunes.apple.com
