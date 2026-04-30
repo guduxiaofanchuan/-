@@ -28,3 +28,6 @@ DOMAIN,api.x.ai
 DOMAIN,accounts.x.ai
 DOMAIN,management-api.x.ai
 DOMAIN,docs.x.ai
+
+#Microsoft 
+DOMAIN-SUFFIX,microsoft.com
